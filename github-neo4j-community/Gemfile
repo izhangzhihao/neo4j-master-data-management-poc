@@ -1,0 +1,19 @@
+source 'https://rubygems.org'
+
+gem 'activesupport'
+gem 'hashie'
+gem 'neo4apis'
+gem 'neo4apis-github'
+gem 'rbkit'
+gem 'stackprof'
+gem 'awesome_print'
+gem 'faraday_middleware'
+gem 'faraday-http-cache'
+gem 'neo4j'
+
+gem 'typhoeus'
+gem 'excon'
+
+gem 'pry'
+gem 'yard'
+gem 'rake'
